@@ -15,3 +15,9 @@ h2
 {
     width: 100px;
 }
+.thick-green-border
+{
+    border-width: 10px;
+    border: solid;
+    border-color: green;
+}

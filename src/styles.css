@@ -9,5 +9,9 @@ p
 }
 h2
 {
-    font-family: monospace, Lobster;
+    font-family: Lobster, monospace;
+}
+.smaller-image
+{
+    width: 100px;
 }

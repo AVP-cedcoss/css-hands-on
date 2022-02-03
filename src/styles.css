@@ -1,4 +1,4 @@
-injected-text {
+.injected-text {
     margin-bottom: -25px;
     text-align: center;
   }
@@ -12,23 +12,16 @@ injected-text {
 
   .yellow-box {
     background-color: yellow;
-    padding: 10px;
+    padding: 20px 40px 20px 40px;
   }
 
   .red-box {
-    background-color: crimson;
-    color: #fff;
-    padding: 20px;
-    margin: 20px;
+    background-color: red;
+    margin: 20px 40px 20px 40px;
+    padding: 1.5em;
   }
-  .blue-box {
-    background-color: blue;
-    color: #fff;
-    /* padding: 40px 20px 20px 40px; */
-    margin: 40px 20px 20px 40px;
-  }
-  [type='checkbox']
-  {
-      margin-top: 10px;
-      margin-bottom: 15px;
+
+  .green-box {
+    background-color: green;
+    margin: 20px 40px 20px 40px;
   }
